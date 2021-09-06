@@ -11,9 +11,6 @@ dependencies:
   - cartopy
   - pint
   - pandas
-  - eofs
   - jupyterlab
   - ipywidgets
-  - pip
-  - pip:
-     - git+https://github.com/Unidata/MetPy.git
+  - metpy
