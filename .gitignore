@@ -3,3 +3,4 @@ case_study/.ipynb_checkpoints/
 case_study/maps
 *.png
 ./*.png
+.DS_Store
